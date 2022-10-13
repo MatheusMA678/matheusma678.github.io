@@ -6,7 +6,7 @@ Meus Projetos e sites são encontrados aqui.
 
 O link a seguir te levará ao menu de exercícios e desafios que fiz durante o curso de HTM5 e CSS3.
 
-* <a href="https://matheusma678.github.io/dmeu-repositorio" rel="external" target="_blank">Menu de Exercícios e Desafios de HTML5 e CSS3</a>
+* <a href="https://matheusma678.github.io/meu-repositorio" rel="external" target="_blank">Menu de Exercícios e Desafios de HTML5 e CSS3</a>
 
 ## <img align="left" src="images/server-discord.png" width="100px"> Site de Convite para o Servidor do Discord
 
